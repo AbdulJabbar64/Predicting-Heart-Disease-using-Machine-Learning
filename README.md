@@ -49,7 +49,7 @@ However, due to the nature of experimentation, the evaluation metric may change 
 Features are different parts of the data. During this step, you'll want to start finding out what you can about the data.
 
 ## 5. Prediction Algorithms
-*Logistic Regression
-*Random Forest Classifier
-*Decision Tree Classifier
-*Support Vector Classifier
+* Logistic Regression
+* Random Forest Classifier
+* Decision Tree Classifier
+* Support Vector Classifier
